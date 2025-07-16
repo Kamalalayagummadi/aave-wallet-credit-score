@@ -4,6 +4,8 @@ We analyzed the behavior of 100,000 DeFi wallet transactions and scored 50,000+ 
 
 # 📊 Score Distribution
 
+![Score Distribution](score_distribution.png)
+
 | Score Range | Wallet Count | Behavior Summary                         |
 |-------------|--------------|------------------------------------------|
 | 0–99        | Very few      | Liquidated or highly risky behavior      |
